@@ -1,7 +1,7 @@
 <link rel="me" href="https://mastodon.social/@romulushill">
 
 # Romulus Hill Here! 👋
-<img src="https://komarev.com/ghpvc/?username=romulushill&label=Profile%20views&color=0e75b6&style=flat" alt="" /> Since 30/06/2026
+Since 30/06/2026<br><img src="https://komarev.com/ghpvc/?username=romulushill&label=Profile%20views&color=0e75b6&style=flat" alt="" /> 
 <img src="https://github.com/romulushill/romulushill/blob/5a554e5ef9a4708549371284ea8f5be88e3dcb12/Romulus%20Hill.png" alt="Romulus Hill's Personal Banner - Software Developer, Computational Pioneer">
 
 ## Who Am I? 💁
